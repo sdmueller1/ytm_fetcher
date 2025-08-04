@@ -1,0 +1,17 @@
+# Ignore all files by default
+/*
+
+.idea/
+*.iml
+
+# Allow access to project files
+!ytm_fetcher/
+!pyproject.toml
+!README.md
+!.gitignore
+
+
+
+Ignore Python cache
+__pycache__/
+*.pyc
